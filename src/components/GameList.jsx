@@ -36,6 +36,10 @@ const GameList = ({ game }) => {
     }
   };
 
+  const onClickingAddToCart = () => {
+    alert("Game is added to Cart!");
+  };
+
   return (
     <div className="bg-white rounded-xl shadow-md relative">
       <div className="p-4">
@@ -55,7 +59,10 @@ const GameList = ({ game }) => {
         </button>
         <h3 className="text-indigo-500 mb-2">{game.price}</h3>
         <button
-          onClick={() => handleAddToCart(game)}
+          onClick={() => {
+            onClickingAddToCart();
+            handleAddToCart(game);
+          }}
           className="bg-green-500 hover:bg-green-600 text-white px-4 py-1.5 rounded-lg text-sm"
         >
           Add to Cart
