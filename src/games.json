@@ -1,0 +1,50 @@
+[
+    {
+      "id": "1",
+      "title": "Path of Exile 2",
+      "type": "Role-Play",
+      "description": "Path of Exile 2 is a free-to-play action role-playing game (ARPG) developed by Grinding Gear Games. Released in early access on December 6, 2024, it serves as a standalone sequel to the original Path of Exile, offering both returning and new players an expanded and refined experience. Play as the Warrior or other characters to exile enemies.",
+      "image": "poe2.jpg",
+      "price": "Free"
+    },
+    {
+      "id": "2",
+      "title": "Grand Theft Auto 6",
+      "type": "Action-Shooting",
+      "description": "Breaking new ground, GTA 6 introduces Lucia Caminos, the series' first non-optional female protagonist, alongside Jason Duval, a former army soldier turned criminal. Their intertwined stories draw inspiration from the infamous Bonnie and Clyde, navigating a world of crime, betrayal, and ambition. Players can seamlessly switch between Lucia and Jason, experiencing the narrative from multiple perspectives.",
+      "image": "gta6.png",
+      "price": "$80.00"
+    },
+    {
+      "id": "3",
+      "title": "Outlast 2",
+      "type": "Action-Horror",
+      "description": "Outlast 2 is a first-person survival horror game developed and published by Red Barrels, released in April 2017. It's the sequel to the critically acclaimed Outlast, but it features a completely new cast of characters, storyline, and setting—making it a standalone experience.",
+      "image": "outlast2.png",
+      "price": "$50.00"
+    },
+    {
+      "id": "4",
+      "title": "Resident Evil",
+      "type": "Action-Horror",
+      "description": "A Japanese horror game series and media franchise created by Capcom. It consists of survival horror, third-person shooter and first-person shooter games, with players typically surviving in environments inhabited by zombies and other mutated creatures.",
+      "image": "resident_evil.png",
+      "price": "$100.00"
+    },
+    {
+      "id": "5",
+      "title": "Diablo 4",
+      "type": "Role-Play",
+      "description": "Diablo IV is a 2023 online-only action role-playing dungeon crawling game developed and published by Blizzard Entertainment. It is the fourth main installment in the Diablo series",
+      "image": "diablo_4.png",
+      "price": "$75.00"
+    },
+    {
+      "id": "6",
+      "title": "Madden 206",
+      "type": "Sport-Action",
+      "description": "Madden NFL 26 is an upcoming American football video game developed by EA Orlando and published by EA Sports. Based on the National Football League (NFL), it is an installment in the Madden NFL series, following Madden NFL 25.",
+      "image": "madden_26.png",
+      "price": "$60.00"
+    }
+  ]
